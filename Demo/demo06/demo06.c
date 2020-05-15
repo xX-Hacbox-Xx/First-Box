@@ -27,6 +27,5 @@ int main()
     {
         printf("name:%s num:%d score:%d \n",stud[i].name,stud[i].num,stud[i].score);
     }
-    
     return 0;
 }
