@@ -98,5 +98,5 @@ void search_friend(struct friends_list friends[], char *name)
         printf("电话: %s\n", friends[i].telephone);
     }
     else
-        printf("无此联系人!");
+       printf("无此联系人!");
 }
